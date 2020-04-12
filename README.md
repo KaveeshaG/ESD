@@ -43,8 +43,14 @@
 
     ```
 
-6. Check all the Branches Branch: 
+7. Check all the Branches Branch: 
     ```sh
     $ git branch -a
+
+    ```
+
+8. Get the Changes: 
+    ```sh
+    $ git pull
 
     ```
